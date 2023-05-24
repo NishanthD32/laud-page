@@ -1,0 +1,105 @@
+
+.home-wrapper{
+padding-left: 10%;
+}
+.header-border{
+    height: 350px;
+    width: 100%;
+    background-color: black;
+}
+
+.name-wrapper{
+    position: absolute;
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin-top: 125px;
+}
+
+.name{
+   font-style: normal;
+}
+.name2-wrapper{
+    position: absolute;
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin-top: 170px;
+}
+
+.name2{
+   font-style: normal;
+}
+.name-about{
+    padding-left: 10%;
+    display: inline;
+    font-size: 2.5em;
+    color: #565656;
+    overflow:hidden;
+}
+.section-body{
+    padding-left: 10%;
+}
+.name-poet{
+    padding-left: 10%;
+    display: inline;
+    font-size: 2.5em;
+    color: #565656;
+    overflow:hidden;
+}
+.section-poet{
+    padding-left: 10%;
+}
+.color1{
+    padding-left: 40%;
+}
+.header-black{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+}
+.name-love{
+    position: absolute;
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+}
+.love2{
+    font-size: medium;
+}
+.fa-solid{
+    padding-left: 45%;
+}
+.poetry{
+    padding-left: 10%;
+    display: inline;
+    font-size: 2.5em;
+    color: #565656;
+    overflow:hidden;
+}
+.section-body{
+
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin-top: 10px;
+}
+.header-black1{
+    height: 150px;
+    width: 100%;
+    background-color: black;
+}
+.name-title{
+    position: absolute;
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+}
+.name-title2{
+    position: absolute;
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin-top: 70px;
+}
